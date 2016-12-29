@@ -1,0 +1,33 @@
+{
+  "name": "babel-plugin-ump-transform-remove-console",
+  "version": "0.0.1",
+  "description": "Remove console.long calls",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shenrunet/babel-plugin-ump-transform-remove-console.git"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "keywords": [
+    "babel-plugin"
+  ],
+  "dependencies": {
+    "babel-runtime": "^6.0.0"
+  },
+  "devDependencies": {
+    "babel-helper-plugin-test-runner": "^6.8.0"
+  },
+  "_id": "babel-plugin-ump-transform-remove-console@0.0.1",
+  "scripts": {},
+  "_npmVersion": "3.8.6",
+  "_nodeVersion": "5.1.0",
+  "_npmUser": {
+    "name": "shenru",
+    "email": "shenrunet@gmai.com"
+  },
+  "maintainers": [
+
+  ],
+
+  "readme": "ERROR: No README data found!"
+}
